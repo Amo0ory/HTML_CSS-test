@@ -1,0 +1,11 @@
+{
+  "name": "devtest-master",
+  "version": "1.0.0",
+  "description": "A client has come to us wanting some updates to their dog sitting website. Our designer has provided some changes for you to use. You’ll need to create these sections so that they are responsive across different screen sizes, you have designs for mobile, tablet and desktop views.  Please try to spend no more than 2 hours to complete both of these sections.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amer Alomayri",
+  "license": "ISC"
+}
